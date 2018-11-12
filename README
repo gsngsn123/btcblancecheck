@@ -1,0 +1,22 @@
+Checkbalance is a quick and dirty Java programm for The Ferox [1].
+It does not handle any exceptions. I tested it on both Win and Linux
+and had no problems. If its not working for you the zip file
+contains the source. Sorry, no warranty.
+
+The addresses must be seperated by a linebreak in a file named
+in.txt in the same directory, the output will be in out.txt
+ANY EXISTING out.txt WILL BE OVERWRITTEN!
+
+There are example files (using win linebreak) to help understand the format.
+
+Run with:
+java -jar chkblnc.jar
+from console/terminal
+
+If you found this helpfull, feel free to donate a few Satoshi to
+
+1LD6GEDrStmKYUjVnDwqySDqU6BUCo7Boc
+
+-Sho
+
+[1] https://bitcointalk.org/index.php?topic=736607.0
